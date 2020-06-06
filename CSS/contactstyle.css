@@ -1,0 +1,193 @@
+@charset "utf-8";
+/* CSS Document */
+.main
+{
+	width: 1330px;
+	height: 1400px;
+	margin: 0px auto;
+background-color: black;
+
+}
+.head
+{
+width: 1330px;
+height: 100px;
+background-color: black;
+}
+
+.logo
+{
+    float: left;
+    margin-left: 20px;
+}
+
+.banner
+{
+float: left;
+margin-left: 20px;
+margin-top: 5px;
+
+}
+
+
+.btn
+{
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+.nav
+{
+    width: 1330px;
+    height: 70px;
+    background-color:black;
+    border-top: 1px solid orange;
+}
+
+
+ul
+{
+    list-style: none;
+}
+ul li
+{
+    background-color: black;
+    width: 120px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid orange;
+    float: left;
+    margin-left: 50px;
+  
+}
+
+
+ul li a
+{
+    display: block;
+    color: orange;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pic
+{
+	float:left;
+	margin-left:0px;
+}
+.ab
+{
+	float: left;
+	margin-top: -50px;
+	margin-left:550px;
+	color:orange;
+	font-size:50px;
+	
+	
+}
+.side
+{
+	float:left;
+	margin-left:-750px;
+	margin-top:70px;
+}
+
+.dada
+{
+float: left;
+margin-left: 450px;
+margin-top: -40px;
+
+}
+
+
+input[type=text], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+  }
+  
+  input[type=submit] {
+	background-color: orange;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+	background-color: #45a049;
+  }
+  
+  .container {
+	border-radius: 5px;
+	background-color: black;
+	padding: 20px;
+  }
+
+  .sp
+{
+	width:1330px;
+	height: 10px;
+	background-color: orange;
+	float: left;
+	margin-top: 5px;
+margin-left: -450px;}
+
+
+
+
+.footer{
+    width: 1330px;
+    height: 300px;
+    background-color: black;
+	float: left;
+	margin-left: -450px;
+	margin-top: -0px;
+
+
+
+}
+
+
+.new
+{
+    
+    margin-top:-40px;
+    margin-left: -50px;
+    float: left;
+    color: orange;
+}
+
+.contact
+{
+color: orange;
+float: left;
+margin-left: 50px;
+}
+.copy
+{
+
+    width:1330px;
+    height: 25px;
+    background-color:lightslategrey;
+    float: left;
+    margin-top: -15px;
+}
+
+
+
+
+
+
+
+

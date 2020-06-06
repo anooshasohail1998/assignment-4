@@ -1,0 +1,385 @@
+@charset "utf-8";
+/* CSS Document */
+.main
+{
+	width: 1330px;
+	height: 1550px;
+	margin: 0px auto;
+	background-color: black;
+}
+.head
+{
+width: 1330px;
+height: 100px;
+background-color: black;
+}
+
+.logo
+{
+    float: left;
+    margin-left: 20px;
+}
+
+.banner
+{
+float: left;
+margin-left: 20px;
+margin-top: 5px;
+
+}
+
+
+.btn
+{
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+.nav
+{
+    width: 1330px;
+    height: 70px;
+    background-color:black;
+    border-top: 1px solid orange;
+}
+
+
+ul
+{
+    list-style: none;
+}
+ul li
+{
+    background-color: black;
+    width: 120px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid orange;
+    float: left;
+    margin-left: 50px;
+  
+}
+
+
+ul li a
+{
+    display: block;
+    color: orange;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pic
+{
+	float:left;
+	margin-left:0px;
+}
+.ab
+{
+	float: left;
+	margin-top: -50px;
+	margin-left:550px;
+	color:orange;
+	font-size:50px;
+	
+	
+}
+.side
+{
+	float:left;
+	margin-left:-700px;
+	margin-top:70px;
+}
+.text1
+{
+	float: left;
+	margin-top: -800px;
+	margin-left:10px;
+	color:#FFF;
+	font-size:50px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text2
+{
+	float: left;
+	margin-top: -305px;
+	margin-left:386px;
+	color:#FFF;
+	font-size:20px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text3
+{
+	float: left;
+	margin-top: -170px;
+	margin-left:386px;
+	color:#FFF;
+	font-size:20px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text4
+{
+	float: left;
+	margin-top: 20px;
+	margin-left:40px;
+	color:#FFF;
+	font-size:40px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text5
+{
+	float: left;
+	margin-top: 104px;
+	margin-left:-250px;
+	color:#FFF;
+	font-size:19px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.sidepic
+{
+	float:left;
+	margin-left:50px;
+	margin-top:50px;
+}
+.text6
+{
+	float: left;
+	margin-top: 25px;
+	margin-left:10px;
+	color:#FFF;
+	font-size:40px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text7
+{
+	float: left;
+	margin-top: 115px;
+	margin-left:235px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.co1
+{
+	float:left;
+	margin-top:231px;
+	margin-left:-484px;
+}
+.co2
+{
+	float:left;
+	margin-top:231px;
+	margin-left:-178px;
+}
+.co3
+{
+	float:left;
+	margin-top:231px;
+	margin-left:25px;
+}
+.co4
+{
+	float:left;
+	margin-top:231px;
+	margin-left:24px;
+}
+.text8
+{
+	float: left;
+	margin-top: 515px;
+	margin-left:-1124px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text81
+{
+	float: left;
+	margin-top: 543px;
+	margin-left:-1143px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+.text9
+{
+	float: left;
+	margin-top: 515px;
+	margin-left:-811px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text91
+{
+	float: left;
+	margin-top: 543px;
+	margin-left:-867px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+.text10
+{
+	float: left;
+	margin-top: 515px;
+	margin-left:-508px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text110
+{
+	float: left;
+	margin-top: 543px;
+	margin-left:-540px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+.text11
+{
+	float: left;
+	margin-top: 515px;
+	margin-left:-200px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text111
+{
+	float: left;
+	margin-top: 543px;
+	margin-left:-222px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.footer
+{
+	width: 1200px;
+	height: 180px;
+	background: #000000;
+	float: left;
+	margin-top: 10px;
+}
+.fotpic
+{
+	float:left;
+	margin-left:50PX;
+	margin-top:50PX;
+}
+.footer
+{
+	width: 1200px;
+	height: 150px;
+	background:  black;
+	float: left;
+	margin-left: 0px;
+	margin-top: 25px;
+}
+.para
+{
+	float: left;
+	margin-top: -80px;
+	margin-left: 350px;
+	color: white;
+	
+	
+}
+
+.con
+{
+	
+	float: left;
+	margin-top: -100px;
+	margin-left: 850px;
+}
+.about
+{
+	float: left;
+		margin-top: -50px;
+	margin-left: 850px;
+	
+}
+.copy
+{
+	
+	float: left;
+		margin-top: -10px;
+	margin-left: 550px;
+	color: white;
+}
+
+.sp
+{
+	width: 1330px;
+	height: 5px;
+	background-color: orange;
+	float: left;
+	
+}
+
+.footer{
+    width: 1330px;
+    height: 300px;
+    background-color: black;
+    float: left;
+margin-top: -1px;
+
+
+}
+
+
+.new
+{
+    
+    margin-top:-40px;
+    margin-left: -50px;
+    float: left;
+    color: orange;
+}
+
+.contact
+{
+color: orange;
+float: left;
+margin-left: 50px;
+}
+.copy
+{
+
+    width:1330px;
+    height: 25px;
+    background-color:lightslategrey;
+    float: left;
+	margin-top: -15px;
+	margin-left: -00px;
+}
+
+.shantxt
+{
+float:left;
+margin-top: 250px;
+margin-left: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
